@@ -26,7 +26,7 @@ An interactive web-based sorting visualizer built using **HTML**, **CSS**, and *
 <p align="center">
   <img src="https://github.com/ManyaBansal14/Sorting-Visualizer/blob/main/SVU.png?raw=true" alt="Before Sorting" width="45%">
   &nbsp; &nbsp; &nbsp;
-  <img src="" alt="After Sorting" width="45%">
+  <img src="https://github.com/ManyaBansal14/Sorting-Visualizer/blob/main/SVS.png?raw=true" alt="After Sorting" width="45%">
 </p>
 
 <p align="center">
