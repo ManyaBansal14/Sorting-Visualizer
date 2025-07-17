@@ -21,13 +21,17 @@ An interactive web-based sorting visualizer built using **HTML**, **CSS**, and *
 
 ## 📸 Preview
 
-### 📊 Before Sorting vs After Sorting
+### 🔀 Before vs ✅ After Sorting
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjA4MDRyZ2lmZmYwbnNxdnRrbjRibWZ2MHdjMG1ocDZvcXZ0ZW5rYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GxJzjDbsGvnDnL2zG4/giphy.gif" alt="Sorting Visualizer Demo GIF" width="600">
+  <img src="https://your-link-to-unsorted-array.gif" alt="Before Sorting" width="45%">
+  &nbsp; &nbsp; &nbsp;
+  <img src="https://your-link-to-sorted-array.gif" alt="After Sorting" width="45%">
 </p>
 
-*Visual: An unsorted array transforms into a fully sorted one through animated sorting steps.*
+<p align="center">
+  <b>Left:</b> Randomized array before sorting &nbsp; | &nbsp; <b>Right:</b> Sorted array after animation
+</p>
 
 ## 🛠️ Technologies Used
 
